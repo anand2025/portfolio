@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Welcome to my portfolio website! This project is my first venture into web development, created using HTML and CSS. The purpose of this website is to showcase my skills, projects, and achievements in a visually appealing manner.
 Features
 Responsive Design: The website is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
